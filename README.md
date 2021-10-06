@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gonzobond
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning hot to code
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on creating new interesting programs to help people
 - 📫 How to reach me ON AVAILABLE AT THE MOMENT
 
